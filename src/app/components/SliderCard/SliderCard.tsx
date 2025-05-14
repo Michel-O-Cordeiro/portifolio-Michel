@@ -22,7 +22,7 @@ export default function SliderCard({ item, index }: SliderCardProps) {
                 </div>
                 <div
                     className='absolute top-14 sm:left-12 rounded-lg bg-white h-[200px] lg:h-[350px] md:h-[300px] w-full'
-                    style={{ boxShadow: '#8234E9 -10px 10px 20px 10px' }}
+                    style={{ boxShadow: '#8234E9 -10px 10px 30px 10px' }}
                 >
                     <div className='relative h-[200px] lg:h-[350px] md:h-[300px] w-[100%]'>
                         <p className='absolute bottom-4 left-4 text-lg font-[300]'>{item.name}</p>

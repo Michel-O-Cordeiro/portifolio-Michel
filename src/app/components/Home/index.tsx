@@ -71,8 +71,20 @@ export default function Home() {
                     <SwiperSlide>
                       <img src="/nextjs.png" alt="nextjs" className="h-12 ml-2" />
                     </SwiperSlide>
+ <SwiperSlide>
+                      <img src="/javascript.png" alt="javascript" className="h-12 ml-2" />
+                    </SwiperSlide>
+ <SwiperSlide>
+                      <img src="/typescript.png" alt="typescript" className="h-12 ml-2" />
+                    </SwiperSlide>
                     <SwiperSlide>
                       <img src="/nodejs.png" alt="nodejs" className="h-12 ml-2" />
+                    </SwiperSlide>
+ <SwiperSlide>
+                      <img src="/reactjs.png" alt="reactjs" className="h-12 ml-2" />
+                    </SwiperSlide>
+ <SwiperSlide>
+                      <img src="/reactnative1.png" alt="react native" className="h-12 ml-2" />
                     </SwiperSlide>
                   </Swiper>
                 </div>
